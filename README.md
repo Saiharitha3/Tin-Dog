@@ -2,7 +2,7 @@
   <h1 style="font-size: 36px; font-family: 'Roboto', sans-serif; font-weight: bold;">🐶 TinDog</h1>
 </center>
 
-- **TinDog** is a Tinder-style app for dogs, helping owners find potential playmates for their dogs by swiping left or right.
+- **TinDog** is a Tinder-style app for dogs, it is just home page developed very basic version of the website.
 
 
 ### 🔧 **Technologies Used**
